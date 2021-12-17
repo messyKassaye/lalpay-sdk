@@ -1,0 +1,17 @@
+{
+  "name": "@lalpay/lalpay-sdk",
+  "version": "1.0.0",
+  "description": "LalPay web sdk. We provide our SDK for the following frameworks ReactJS,Angular and VueJS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Lalpay",
+    "React",
+    "Angular",
+    "VueJs"
+  ],
+  "author": "lalpay",
+  "license": "ISC"
+}
